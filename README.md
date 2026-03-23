@@ -35,6 +35,7 @@ I'm passionate about solving technical problems, supporting end users, and prote
 | Certification | Issuer | Focus Area |
 |:-------------:|:------:|:----------:|
 | [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20A+%20ce%20certificate.pdf) | CompTIA | IT Fundamentals & Support |
+| [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20Network+%20ce%20certificate.pdf) | CompTIA | Networking Fundamentals |
 | [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20Security+%20ce%20certificate.pdf) | CompTIA | Security Fundamentals |
 | [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](_Certifications/CompTIA%20CySA+%20ce%20certificate.pdf) | CompTIA | Security Analytics |
 | [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](_Certifications/Google%20Cybersecurity%20Certificate.pdf) | Google | Professional Certificate |
@@ -64,7 +65,7 @@ I'm passionate about solving technical problems, supporting end users, and prote
 | **Active Directory** | User provisioning, group management, OU design, account lifecycle |
 | **Microsoft 365 / Entra ID** | Tenant admin, security groups, RBAC delegation, MFA, Conditional Access, Exchange Online |
 | **Windows Server** | AD DS, DNS, Group Policy, file shares, NTFS permissions |
-| **Networking** | TCP/IP, DHCP, DNS, static addressing, network segmentation |
+| **Networking** | TCP/IP, DHCP, DNS, static addressing, network segmentation, CompTIA Network+ certified |
 | **Virtualization** | VMware Workstation Pro, virtual networking |
 | **Troubleshooting** | Event Viewer, fsmgmt.msc, gpresult, ipconfig, nslookup |
 
